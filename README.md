@@ -1,3 +1,8 @@
+Link to my Specialization Certificate: https://www.coursera.org/account/accomplishments/specialization/N7CW5PYD3CRT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n
+
+I have completed all of these projects, as part of the Deeplearning.ai specializations, with minor variations to this forked repository. I will be making all the necessary changes eventually.
+_________________________________________________________________________________________________________________
+
 # Deep Learning Specialization on Coursera
 ### [Master Deep Learning, and Break into AI](https://www.coursera.org/specializations/deep-learning)
 
